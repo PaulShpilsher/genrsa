@@ -46,4 +46,3 @@ Generating a RSA keys with bit size of 4096 to files my-key.pem and my-key.pub
 ## Acknowledgements <a name = "acknowledgement"></a>
 
 - Inspiration ["Simple Made Easy" - Rich Hickey (2011)](https://www.youtube.com/watch?v=SxdOUGdseq4)
-- References
