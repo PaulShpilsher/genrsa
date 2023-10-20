@@ -14,7 +14,7 @@ import (
 
 func main() {
 	bits, pemFile, pubFile := initConfig()
-	log.Printf("generating RSA key (bit size %d) -%s, %s", bits, pemFile, pubFile)
+	log.Printf("generating RSA key (bit size %d) - %s, %s", bits, pemFile, pubFile)
 
 	privateKey := createPrivateKey(bits)
 
